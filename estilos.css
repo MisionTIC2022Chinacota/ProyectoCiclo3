@@ -10,3 +10,14 @@ h3{
 .parrafoNegro {
     color: black;
 }
+.imagenPequeña {
+    height: 200px;
+}
+.contenedorConMargen {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    border: 1px solid red;
+    padding: 10px;
+}
